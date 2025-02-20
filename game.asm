@@ -20,7 +20,7 @@ second2: dw 0
 minutes:dw 0
 tickcount: dw 0
 
-; ----------------------<( SCROLL )>----------------------
+; ----------------------<( SCROLL )>------------------------------
 Scroll:
 	push bp
 	mov bp,sp
